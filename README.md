@@ -8,6 +8,11 @@
   <i>"Clean code always looks like it was written by someone who cares."</i>
 </div>
 
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-I_use_Arch_btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1793D1" alt="I use Arch btw" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Hyprland-4B0082?style=for-the-badge&logo=hyper&logoColor=white&labelColor=4B0082" alt="Hyprland" /></a>
+</div>
+
 ## 👨‍💻 About Me
 
 - 🚀 Currently focused on **React** development and modern web technologies
@@ -38,11 +43,17 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ShelbyG2/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShelbyG2&repo=project-name&theme=react&hide_border=true&bg_color=0D1117&title_color=4694f8&icon_color=4694f8&text_color=ffffff" />
+  <a href="https://github.com/ShelbyG2/shelbymovieweb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShelbyG2&repo=shelbymovieweb&theme=react&hide_border=true&bg_color=0D1117&title_color=4694f8&icon_color=4694f8&text_color=ffffff" />
   </a>
-  <a href="https://github.com/ShelbyG2/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShelbyG2&repo=another-project&theme=react&hide_border=true&bg_color=0D1117&title_color=4694f8&icon_color=4694f8&text_color=ffffff" />
+  <a href="https://github.com/ShelbyG2/Digital_Expense_Tracker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShelbyG2&repo=Digital_Expense_Tracker&theme=react&hide_border=true&bg_color=0D1117&title_color=4694f8&icon_color=4694f8&text_color=ffffff" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/ShelbyG2/moviedb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShelbyG2&repo=moviedb&theme=react&hide_border=true&bg_color=0D1117&title_color=4694f8&icon_color=4694f8&text_color=ffffff" />
   </a>
 </div>
 
@@ -106,6 +117,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" alt="Linux" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=4EAA25" alt="Bash" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=5391FE" alt="Shell" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=019733" alt="Vim" /></a>&nbsp;
 </p>
 </details>
