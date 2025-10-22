@@ -29,22 +29,11 @@ mobile app that helps users plan, track, and stick to daily routines with analyt
 ## 🛠️ tech stack
 
 <details open>
-<summary><b>Programming Languages</b></summary>
-<br>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
-</p>
-</details>
-
-<details open>
 <summary><b>Frontend Development</b></summary>
 <br>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;
@@ -58,27 +47,18 @@ mobile app that helps users plan, track, and stick to daily routines with analyt
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-REST%20API-25A162?style=for-the-badge&logo=fastapi&logoColor=white" /></a>&nbsp;
 </p>
 </details>
 
 <details open>
-<summary><b>Databases</b></summary>
-<br>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>&nbsp;
-</p>
-</details>
-
-<details open>
-<summary><b>AI / Data Science</b></summary>
+<summary><b>AI / Machine Learning</b></summary>
 <br>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-LLaMA%20AI-7836FF?style=for-the-badge&logo=meta&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;
@@ -92,17 +72,6 @@ mobile app that helps users plan, track, and stick to daily routines with analyt
   <a href="#"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>&nbsp;
-</p>
-</details>
-
-<details open>
-<summary><b>Tools & Utilities</b></summary>
-<br>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>&nbsp;
 </p>
 </details>
 
