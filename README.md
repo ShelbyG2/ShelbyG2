@@ -2,7 +2,7 @@
 
 <!-- profile banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=fullstack+dev+%7C+ai+%2B+cloud+enthusiast;building+elegant+web+apps+one+bug+at+a+time" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines= fullstack+dev+%7C+ai+%2B+cloud+enthusiast;building+elegant+web+apps+one+bug+at+a+time" alt="typing intro"/>
 </div>
 
 ---
