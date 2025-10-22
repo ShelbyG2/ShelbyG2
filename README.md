@@ -63,12 +63,7 @@
 <details open>
 <summary><b>Frontend Development</b></summary>
 <br>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" /></a>&nbsp;
-</p>
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/></a> </p>
 </details>
 
 <details open>
