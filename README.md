@@ -9,24 +9,7 @@
 
 ### 🧠 about me  
 fullstack developer with a knack for turning coffee into scalable code.  
-currently building **healthbridge** 🏥 (ai telehealth platform) & **chronix** 📱 (routine management app).  
-i break stuff, fix it elegantly, then pretend it never happened 😌  
 
----
-
-### 🚀 featured projects  
-
-#### 🏥 [HealthBridge](https://github.com/shelbyg2/healthbridge)
-ai-powered telehealth appointment platform with smart triage, secure auth & pdf-based documentation.  
-**stack:** mern + tailwind + openai api + jwt  
-
-#### ⏱️ [Chronix](https://github.com/shelbyg2/chronix)
-mobile app that helps users plan, track, and stick to daily routines with analytics & reminders.  
-**stack:** react native (expo) + tailwind css + firebase  
-
----
-
-## 🛠️ tech stack
 
 
 ## 🧠 tech stack
