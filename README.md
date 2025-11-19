@@ -39,6 +39,81 @@
   </a>
 </div>
 <br/>
+## ✨ Highlights
+- Built and shipped multiple production web apps using React, Next.js and Tailwind
+- Mobile apps with React Native + Expo + NativeWind for fast iteration
+- Backend services using Node.js, Express, Supabase, Appwrite and Dockerized deployments
+- Comfortable with relational and NoSQL DBs: MySQL, MariaDB, MongoDB
+- Strong fundamentals: clean architecture, testing, performance optimization, CI/CD
+
+---
+
+## 🛠️ Skills
+
+<details open>
+<summary><b>Frontend / Web</b></summary>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Mobile</b></summary>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Expo%20Go-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" /></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Backend / Databases / Infra</b></summary>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Appwrite-E23D44?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+</p>
+</details>
+
+<details>
+<summary><b>Programming Languages</b></summary>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+</p>
+</details>
+
+<details>
+<summary><b>Tools & Utilities</b></summary>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
+</p>
+</details>
+
+---
+
+## 🚀 Selected Projects
+
+<div align="center">
+  <a href="https://github.com/ShelbyG2/shelbymovieweb"><img src="https://img.shields.io/badge/-shelbymovieweb-4694F8?style=for-the-badge&logo=github" alt="shelbymovieweb" /></a>
+  <a href="https://github.com/ShelbyG2/Digital_Expense_Tracker"><img src="https://img.shields.io/badge/-Digital_Expense_Tracker-4694F8?style=for-the-badge&logo=github" alt="Digital Expense Tracker" /></a>
+  <a href="https://github.com/ShelbyG2/moviedb"><img src="https://img.shields.io/badge/-moviedb-4694F8?style=for-the-badge&logo=github" alt="moviedb" /></a>
+</div>
 
 ## 🏆 Featured Projects
 
