@@ -70,7 +70,12 @@
   <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" /></a>&nbsp;
 </p>
 </details>
-
+<details open>
+  <summary> <b> Mobile Development</b></summary>
+  <p align="center">
+    <a href="#" src="https://img.shields.io/badge/-Expo-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="Expo"/>
+  </p>
+</details>
 <details open>
 <summary><b>Backend Development</b></summary>
 <br>
