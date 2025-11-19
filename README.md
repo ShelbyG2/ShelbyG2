@@ -1,7 +1,7 @@
-# Joseph Njenga | Full Stack Developer | Mobile Developer
+# Joseph Njenga | Software Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4694F8&center=true&vCenter=true&random=false&width=435&lines=React+Developer;Web+Programming+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4694F8&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Mobile+Developer;Programming+Enthusiast;Problem+Solver;Continuous+Learner; IT+Undergraduate" alt="Typing SVG" />
 </div>
 
 <div align="center">
