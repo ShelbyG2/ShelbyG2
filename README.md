@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently focused on **React** development and modern web technologies
+- 🚀 Currently focused on **Mobile** development and modern native technologies
 - 🌱 Passionate about building responsive, user-friendly web applications
-- 🔍 Always exploring new technologies and best practices in web development
+- 🔍 Always exploring new technologies and best practices in software development
 - 💡 Enjoy solving complex problems with elegant solutions
 
 ## 📊 GitHub Analytics
@@ -106,11 +106,9 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MERN Stack" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=339933" alt="Node.js" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Expo%20Go-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" /></a>
 </p>
 
 <details open>
