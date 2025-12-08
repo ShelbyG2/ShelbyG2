@@ -1,4 +1,4 @@
-# Joseph Njenga | Software Developer
+# Njenga | Software Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4694F8&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Mobile+Developer;Programming+Enthusiast;Problem+Solver;Continuous+Learner;IT+Undergraduate" alt="Typing SVG" />
@@ -35,7 +35,7 @@
 <div align="center">
   <h4>📈 Contribution Graph</h4>
   <a href="https://github.com/ShelbyG2">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShelbyG2&custom_title=Joseph%20Njenga's%20Contribution%20Graph&bg_color=0D1117&color=4694F8&line=61DAFB&point=FFFFFF&area=true&area_color=61DAFB&hide_border=true&radius=8" alt="ShelbyG2's Github Activity Graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShelbyG2&custom_title=Njenga's%20Contribution%20Graph&bg_color=0D1117&color=4694F8&line=61DAFB&point=FFFFFF&area=true&area_color=61DAFB&hide_border=true&radius=8" alt="ShelbyG2's Github Activity Graph" />
   </a>
 </div>
 <br/>
