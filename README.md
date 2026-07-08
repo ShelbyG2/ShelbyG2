@@ -1,141 +1,136 @@
-# Joseph Njenga | Software Engineer
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4694F8&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Engineer;Android+Developer;Mobile+Technologies+Enthusiast;Passionate+Problem+Solver" alt="Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4694F8&height=120&section=header&fontSize=1" />
 </div>
 
-<div align="center">
-  <i>
-    "Clean code always looks like it was written by someone who cares."
-  </i>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- Experienced in designing, developing, and maintaining scalable mobile and web applications
-- Specialized in Android development with modern native technologies (Kotlin, Jetpack Compose, Gradle)
-- Passionate about user-centric, responsive interfaces and clean, maintainable code
-- Fast learner and proactive in adopting best practices and new technologies
-- Strong problem-solving skills and commitment to continuous learning and growth
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShelbyG2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4694F8&icon_color=F8D866"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShelbyG2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=4694F8&fire=4694F8&currStreakNum=FFFFFF&currStreakLabel=4694F8" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <h4>📈 Contribution Graph</h4>
-  <a href="https://github.com/ShelbyG2">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShelbyG2&custom_title=Njenga's%20Contribution%20Graph&bg_color=0D1117&color=4694F8&line=61DAFB&point=FFFFFF&area=true&hide_border=true"/>
-  </a>
-</div>
-
----
-
-## 🛠️ Technical Skills
-
-<details open>
-  <summary><b>Android & Mobile Development</b></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" /></a>
-  </p>
-</details>
-
-<details open>
-  <summary><b>Frontend Development</b></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend & Databases</b></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Appwrite-E23D44?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  </p>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-  </p>
-</details>
-
-<details open>
-  <summary><b>Programming Languages</b></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Visual Basic .NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Visual Basic .NET" /></a>
-  </p>
-</details>
-
-<details open>
-  <summary><b>Tools & Utilities</b></summary>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell" /></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
-  </p>
-</details>
-
----
-
-## 📚 Currently Learning
+<h1 align="center">Joseph Njenga</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" /></a>
+  <b>Android Engineer · Fullstack Developer</b><br/>
+  <sub>Nairobi, Kenya · <a href="https://shelbydev.tech">shelbydev.tech</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/njenga-joseph-2528112b1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://shelbydev.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:wailerjengaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/pickyblind_ass">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ShelbyG2&style=flat-square&color=4694F8&label=views" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### About
+
+Native Android engineer specialising in **Kotlin** and **Jetpack Compose**, with a parallel background in fullstack web development using **Next.js** and **TypeScript**.
+
+I focus on production-quality architecture — clean separation of concerns, reactive state management, and composable design systems. Currently building in the Android ecosystem full-time while maintaining strong web fundamentals.
+
+Also run **@CodeWithJS** — a developer content brand covering Android and Kotlin engineering for mobile developers.
+
+</td>
+<td width="45%" valign="top">
+
+### Now
+
+```kotlin
+val focus = "Native Android"
+val primary = "Kotlin + Jetpack Compose"
+val architecture = "MVVM + Clean"
+val backend = "Supabase + PostgreSQL"
+val available = true
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stack
+
+**Android**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+`Coroutines` · `Flow` · `Hilt` · `Room` · `Retrofit` · `Navigation Compose` · `ViewModel` · `Coil`
+
+**Web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Infrastructure**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### Selected Work
+
+| Project | Description | Stack |
+|---|---|---|
+| [**shelbymovieweb**](https://github.com/ShelbyG2/shelbymovieweb) | Movie streaming platform with TMDB integration, dynamic content loading, and categorised browsing | Next.js · TypeScript · Tailwind |
+| [**Jetpack-Notes**](https://github.com/ShelbyG2/Jetpack-Notes) | Compose-first notes app exploring Material 3 components and state management patterns | Kotlin · Jetpack Compose |
+| [**js-to-cpp-fast-track**](https://github.com/ShelbyG2/js-to-cpp-fast-track) | Structured C++ learning mapped against JS fundamentals | C++ |
+
+---
+
+### GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/njenga-joseph-2528112b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/pickyblind_ass" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:wailerjengaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/wailerjengaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+
+<img
+  height="155"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShelbyG2&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4694F8&icon_color=4694F8&text_color=8B949E&include_all_commits=true"
+/>
+&nbsp;
+<img
+  height="155"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShelbyG2&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4694F8&text_color=8B949E&langs_count=6&hide=html,css"
+/>
+
+</div>
+
+<div align="center">
+  <img
+    width="94%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShelbyG2&bg_color=0D1117&color=8B949E&line=4694F8&point=4694F8&area=true&area_color=4694F810&hide_border=true&custom_title=Contribution+Activity"
+  />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShelbyG2&style=flat-square&color=4694F8" alt="Profile Views" />
-</div>  
+  <sub>Open to Android and fullstack engineering roles · <a href="mailto:wailerjengaa@gmail.com">wailerjengaa@gmail.com</a></sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4694F8,100:0D1117&height=80&section=footer" />
+</div>
