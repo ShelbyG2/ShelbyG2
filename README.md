@@ -45,13 +45,18 @@
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h4><a href="https://github.com/ShelbyG2/cine-flix-native">📱 cine-flix-native</a></h4>
-      <sub>React Native companion app — mobile-first movie discovery experience.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-      <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
+  <h4><a href="https://github.com/ShelbyG2/Healthbridge">🏥 HealthBridge</a></h4>
+  <sub>AI-powered telehealth platform — smart symptom triage, JWT auth, appointment management & PDF medical records.</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <br/><br/>
+  <a href="https://healthbridge-rho.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-▶_healthbridge--rho.vercel.app-4694F8?style=flat-square&logo=vercel" />
+  </a>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
